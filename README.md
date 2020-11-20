@@ -14,7 +14,7 @@ packages.
 
 ### Turkish Data
 
--   [TUIK](http://www.tuik.gov.tr/)
+-   [TUIK](http://www.tuik.gov.tr/) - [***Package***](https://github.com/emraher/tuik)
 -   [Hazine](https://muhasebat.hmb.gov.tr/genel-yonetim-mali-istatistikleri)
 -   [SBB](http://www.sbb.gov.tr/ekonomik-veriler/)
 -   [TCMB EVDS](https://evds2.tcmb.gov.tr/) -
