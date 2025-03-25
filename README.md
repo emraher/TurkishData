@@ -14,13 +14,16 @@ packages.
 
 ### Turkish Data
 
+-   [TurkeyMap](https://github.com/emraher/turkeymap) - [***Package***](https://github.com/emraher/turkeymap)
 -   [TUIK](http://www.tuik.gov.tr/) - [***Package***](https://github.com/emraher/tuik)
--   [Hazine](https://muhasebat.hmb.gov.tr/genel-yonetim-mali-istatistikleri)
--   [SBB](http://www.sbb.gov.tr/ekonomik-veriler/)
 -   [TCMB EVDS](https://evds2.tcmb.gov.tr/) -
     [***Package***](https://github.com/emraher/cbRt)
 -   [TBB](https://verisistemi.tbb.org.tr/) -
     [***Package***](https://github.com/emraher/tbat)
+-   [SGK](https://veri.sgk.gov.tr/) -
+    [***Package***](https://github.com/emraher/sgkveri)
+-   [Hazine](https://muhasebat.hmb.gov.tr/genel-yonetim-mali-istatistikleri)
+-   [SBB](http://www.sbb.gov.tr/ekonomik-veriler/)
 -   [TOBB Sanayi Veritabani](http://sanayi.tobb.org.tr/index.php)
 -   [edevlet-mezarlik-verileri](https://github.com/kuzdogan/edevlet-mezarlik-verileri)
 -   [BKM](https://bkm.com.tr/raporlar-ve-yayinlar/donemsel-bilgiler/)
