@@ -28,6 +28,9 @@ packages.
 -   [edevlet-mezarlik-verileri](https://github.com/kuzdogan/edevlet-mezarlik-verileri)
 -   [BKM](https://bkm.com.tr/raporlar-ve-yayinlar/donemsel-bilgiler/)
 -   [TEFAS](https://www.tefas.gov.tr/Default.aspx)
+-   [KAP](https://www.kap.org.tr/tr)
+-   [BIST](https://www.borsaistanbul.com/tr/sayfa/49/veriler)
+-   [kaymal/acik-veri](https://github.com/kaymal/acik-veri)
 
 ### World Data
 
